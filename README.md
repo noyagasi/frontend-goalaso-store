@@ -1,6 +1,5 @@
 
-#Goalaso Store
-##React.js, Redux, Node.js, Express.js, EC2 (AWS)
+Goalaso Store - React.js, Redux, Node.js, Express.js, EC2 (AWS)
 
 ● Created an Ecommerce store based on a Node/Express back-end and hosted on AWS EC2.
 
